@@ -7,6 +7,7 @@
 # computational content analysis and generation
 
 - basically chatgpt with code interpreter and noteable plugin
+- some additional bullet point created in noteable and synced
 
 ---
 
