@@ -4,14 +4,14 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# some repo title
+# computational content analysis and generation
 
-- some bullet point
+- basically chatgpt with code interpreter and noteable plugin
 
 ---
 
-- [internal repo](https://github.com/nils-holmberg/some-repo/)
-- [external website](https://nils-holmberg.github.io/some-repo/)
+- [internal repo](https://github.com/nils-holmberg/cca-ccg/)
+- [external website](https://nils-holmberg.github.io/cca-ccg/)
 
 
 
