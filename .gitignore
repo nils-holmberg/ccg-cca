@@ -15,3 +15,10 @@ vid/*
 !tmp/.gitkeep
 
 
+
+*.vectorized_content
+.noteablekeep
+*.vectorized_metadata
+*.py[cod]
+__pycache__
+.tmp/
